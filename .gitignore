@@ -2,3 +2,7 @@
 .vscode
 *txt
 *csv
+.env
+__pycache__
+f.py
+data
