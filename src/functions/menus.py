@@ -1,5 +1,7 @@
+# All menus based in app
+
 main_menu = """
-[0] To Exit app 
+[0] To Exit App 
 [1] For Product Menu 
 [2] For Courier Menu 
 [3] For Order Menu
@@ -7,14 +9,18 @@ main_menu = """
 
 product_menu = """
 [0] Return to Main Menu 
-[1] View Products  
-[2] Create new product
+[1] View products  
+[2] Create product
+[3] Update product
+[4] Delete product
 """
 
 courier_menu = """
 [0] Return to Main Menu 
-[1] View Couriers 
-[2] Create new courier
+[1] View couriers
+[2] Create courier
+[3] Update courier
+[4] Delete courier
 """
 
 order_menu = """

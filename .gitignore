@@ -4,5 +4,5 @@
 *csv
 .env
 __pycache__
-f.py
 data
+tests.test_product 
